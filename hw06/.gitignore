@@ -1,0 +1,4 @@
+yolo-env/
+runs/
+*.pt
+__pycache__/
